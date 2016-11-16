@@ -13,8 +13,10 @@ TEMPLATE = app
 
 
 SOURCES += main.cpp\
-        qttimertest.cpp
+           qttimertest.cpp \
+           testobject.cpp
 
-HEADERS  += qttimertest.hpp
+HEADERS  += qttimertest.hpp \
+            testobject.hpp
 
 FORMS    += qttimertest.ui
