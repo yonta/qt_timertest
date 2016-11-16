@@ -1,9 +1,10 @@
 # QtCreator
+*.pro.user
+ui_*.h
 Makefile
 Makefile.Debug
 Makefile.Release
 debug/
 release/
-ui_mainwindow.h
 .qmake.stash
 *.autosave
