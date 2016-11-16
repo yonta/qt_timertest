@@ -1,0 +1,9 @@
+# QtCreator
+Makefile
+Makefile.Debug
+Makefile.Release
+debug/
+release/
+ui_mainwindow.h
+.qmake.stash
+*.autosave
